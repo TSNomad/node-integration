@@ -1,9 +1,9 @@
 {
   "name": "@tsnomad/node-integration",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Strategies that need only Node itself: fetch, console logging, in-process tasks and the in-memory event bus",
   "type": "module",
-  "license": "GPL-3.0-or-later",
+  "license": "MIT",
   "homepage": "https://github.com/tsnomad/node-integration#readme",
   "bugs": {
     "url": "https://github.com/tsnomad/node-integration/issues"
